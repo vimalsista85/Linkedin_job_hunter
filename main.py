@@ -12,7 +12,7 @@ from typing import TypedDict, List, Dict
 from langgraph.graph import StateGraph, END
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
-import requests
+
 from curl_cffi import requests as stealth_requests
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
@@ -433,9 +433,13 @@ def manager_node(state: JobSearchState):
 def router(state: JobSearchState):
     scraped_count = len(state.get("scraped_jobs", []))
     exhausted = state.get("search_exhausted", False)
+    config = state.get('config', {})
+    max_jobs = int(config.get('max_jobs', 20))
+    # Scrape 3x the target to ensure enough pass the keyword filter
+    scrape_target = max_jobs * 3
     
-    if scraped_count < 40 and not exhausted:
-        print(f"\n  [ROUTER] Only {scraped_count}/40 valid jobs scraped. Sending back to Scout...")
+    if scraped_count < scrape_target and not exhausted:
+        print(f"\n  [ROUTER] Only {scraped_count}/{scrape_target} valid jobs scraped. Sending back to Scout...")
         return "Scout"
     
     print(f"\n  [ROUTER] Proceeding to Analyst with {scraped_count} jobs.")
