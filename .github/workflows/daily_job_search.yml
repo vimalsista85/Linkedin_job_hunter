@@ -1,4 +1,4 @@
-name: Daily Pega Job Search
+name: Daily Linkedin Job Search
 
 on:
   schedule:
