@@ -2,7 +2,7 @@ name: Daily Linkedin Job Search Finder
 
 on:
   schedule:
-    - cron: '0 14 * * *'  # Runs daily at 9 AM CST (14:00 UTC)
+    - cron: '0 14 * * 1-5'  # Runs weekdays at 9 AM CST (14:00 UTC)
   workflow_dispatch:        # Manual trigger button
 
 jobs:
