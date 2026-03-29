@@ -147,7 +147,7 @@ def scout_node(state: JobSearchState):
     search_exhausted = state.get("search_exhausted", False)
     config = state.get('config', {})
     max_jobs = int(config.get('max_jobs', 20))
-    target_limit = max_jobs * 2 # Gather double the target to ensure we have enough to filter
+    target_limit = max_jobs * 3  # Gather 3x the target — matches Router's scrape threshold
     
     print("  [SOURCE] Launching Playwright to scrape LinkedIn Jobs directly...")
     config = state.get('config', {})
@@ -435,7 +435,7 @@ def router(state: JobSearchState):
     exhausted = state.get("search_exhausted", False)
     config = state.get('config', {})
     max_jobs = int(config.get('max_jobs', 20))
-    # Scrape 3x the target to ensure enough pass the keyword filter
+    # Must match Scout's target_limit so the threshold is actually reachable
     scrape_target = max_jobs * 3
     
     if scraped_count < scrape_target and not exhausted:
