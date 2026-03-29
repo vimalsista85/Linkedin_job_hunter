@@ -1,0 +1,44 @@
+name: Daily Pega Job Search
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # Runs daily at 9 AM CST (14:00 UTC)
+  workflow_dispatch:        # Manual trigger button
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write       # Needed to push results back
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run Job Finder
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        working-directory: .
+        run: python main.py
+
+      - name: Commit results back
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add job_urls.json blacklist.json matching_jobs.md
+          git diff --staged --quiet || git commit -m "Daily job search results $(date +%Y-%m-%d)"
+          git push

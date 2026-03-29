@@ -1,0 +1,6 @@
+location: Dallas TX
+email: sujith0001k@gmail.com
+distance: 25
+search_term: pega
+max_jobs: 14
+keywords: pega, pega lead, pega lsa
