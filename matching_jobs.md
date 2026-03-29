@@ -25,7 +25,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 6. [Job Post](https://www.linkedin.com/jobs/view/pega-decisioning-consultant-at-infovision-inc-4391209366)
-> **Company:** Not Found | **Location:** Dallas TX | **Salary:** $85,000
+> **Company:** Not Found | **Location:** Dallas TX | **Salary:** $85,000 - $90,000
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 7. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-system-architect-at-excelon-solutions-4390951846)
