@@ -2,5 +2,5 @@ location: united states
 email: sujith0001k@gmail.com
 distance: 25
 search_term: pega
-max_jobs: 3p
+max_jobs: 30
 keywords: pega, pega lead, pega lsa
