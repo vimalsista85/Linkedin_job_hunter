@@ -1,10 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-lensa-4392378615",
-        "title": "Entry Level Software Developer",
-        "date_found": "2026-03-30"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/pega-technical-project-manager-at-saransh-inc-4393570116",
         "title": "Pega Technical Project Manager",
         "date_found": "2026-03-31"
@@ -240,11 +235,6 @@
         "date_found": "2026-04-02"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/principal-senior-consultant-anti-fraud-risk-management-at-infosys-consulting-4396670543",
-        "title": "Principal/ Senior Consultant - Anti-Fraud Risk Management",
-        "date_found": "2026-04-02"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/financial-systems-developer-intern-at-jabil-4392467607",
         "title": "Financial Systems Developer Intern",
         "date_found": "2026-04-02"
@@ -267,11 +257,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/computer-systems-engineer-pega-resource-at-leidos-4376109817",
         "title": "Computer Systems Engineer - Pega Resource",
-        "date_found": "2026-04-02"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/principal-senior-consultant-anti-fraud-risk-management-at-infosys-consulting-4396677084",
-        "title": "Principal/ Senior Consultant - Anti-Fraud Risk Management",
         "date_found": "2026-04-02"
     },
     {
@@ -320,19 +305,9 @@
         "date_found": "2026-04-02"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/iam-business-analyst-us-citizens-green-card-holders-hybrid-role-locals-only%21-at-zillion-technologies-inc-4397043533",
-        "title": "IAM Business Analyst  -( US CITIZENS / GREEN CARD HOLDERS) - Hybrid Role - LOCALS ONLY!",
-        "date_found": "2026-04-02"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/it-analyst-iam-at-inspyr-solutions-4395345234",
         "title": "IT Analyst - IAM",
         "date_found": "2026-04-02"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-s4-analytics-llc-4395366959",
-        "title": "Pega Developer",
-        "date_found": "2026-04-06"
     },
     {
         "url": "https://www.linkedin.com/jobs/view/pega-developer-at-hays-4395361890",
@@ -410,11 +385,6 @@
         "date_found": "2026-04-06"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/iam-analyst-at-kyyba-inc-4394207072",
-        "title": "IAM Analyst",
-        "date_found": "2026-04-06"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/pega-lead-systems-architect-clsa-at-labb-4395368175",
         "title": "Pega Lead Systems Architect (CLSA)",
         "date_found": "2026-04-06"
@@ -448,5 +418,35 @@
         "url": "https://www.linkedin.com/jobs/view/pega-business-architect-at-ssi-people-4397590046",
         "title": "Pega Business Architect",
         "date_found": "2026-04-06"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-genesis-consulting-partners-llc-4398062525",
+        "title": "Pega Developer",
+        "date_found": "2026-04-07"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-developer-with-cpm-hcif-fsif-strongsville-oh-pittsburgh-pa-dallas-tx-full-time-at-okaya-infocom-4398078132",
+        "title": "Pega Developer With CPM, HCIF, FSIF,--Strongsville,Oh, Pittsburgh, PA,  Dallas, TX--Full Time",
+        "date_found": "2026-04-07"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-pega-rpa-developer-at-galent-4398262742",
+        "title": "Lead Pega RPA Developer",
+        "date_found": "2026-04-07"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-architect-at-avance-consulting-4395421694",
+        "title": "Pega Architect",
+        "date_found": "2026-04-07"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-java-spring-flowable-bpm-at-pnc-4393810799",
+        "title": "Software Engineer Sr (Java, Spring, Flowable BPM)",
+        "date_found": "2026-04-07"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/full-time-for-all-visa-pega-lsa-at-visionary-innovative-technology-solutions-llc-4397951906",
+        "title": "Full time for All Visa: Pega LSA",
+        "date_found": "2026-04-07"
     }
 ]

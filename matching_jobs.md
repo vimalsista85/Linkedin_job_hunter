@@ -1,11 +1,11 @@
-# Pega Job Search Results (2026-04-06)
+# Pega Job Search Results (2026-04-07)
 
 **Jobs Meeting Criteria:** 30
 
 ## ✅ Approved Jobs (Correct Location)
 
 ### 1. [Job Post](https://www.linkedin.com/jobs/view/pega-technical-project-manager-at-saransh-inc-4393570116)
-> **Company:** Not Found | **Location:** united states | **Salary:** $150,000 - $200,000
+> **Company:** Not Found | **Location:** united states | **Salary:** $120,000 - $125,000
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 2. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-at-ntt-data-north-america-4393573494)
@@ -25,7 +25,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 6. [Job Post](https://www.linkedin.com/jobs/view/pega-lsa-fulltime-only-lsa-certified-at-visionary-innovative-technology-solutions-llc-4395854858)
-> **Company:** Not Found | **Location:** united states | **Salary:** $36,000 - $66,000
+> **Company:** Not Found | **Location:** united states | **Salary:** $90,000 - $110,000
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 7. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-system-architect-at-ntt-data-north-america-4383809601)
@@ -33,7 +33,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 8. [Job Post](https://www.linkedin.com/jobs/view/pega-engineer-at-jobs-via-dice-4392136808)
-> **Company:** Not Found | **Location:** united states | **Salary:** $36,000 - $66,000
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 9. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-system-architect-at-ntt-data-north-america-4380522421)
@@ -41,7 +41,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 10. [Job Post](https://www.linkedin.com/jobs/view/sr-architect-pega-at-jobs-via-dice-4392149011)
-> **Company:** PEGA | **Location:** united states | **Salary:** $110,000 - $140,000
+> **Company:** PEGA | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 11. [Job Post](https://www.linkedin.com/jobs/view/pega-lsa-fulltime-at-jobs-via-dice-4392130861)
@@ -89,7 +89,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 22. [Job Post](https://www.linkedin.com/jobs/view/talent-network-all-locations-at-anakim-consulting-incorporated-4393931670)
-> **Company:** All Locations | **Location:** united states | **Salary:** Not Specified
+> **Company:** All Locations | **Location:** united states | **Salary:** $65,474.66 - $109,124.29
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 23. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-ssa-at-virtusa-4390551926)
