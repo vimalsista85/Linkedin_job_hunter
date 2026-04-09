@@ -1,22 +1,7 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/pega-technical-project-manager-at-jobs-via-dice-4392461523",
-        "title": "Pega Technical Project Manager",
-        "date_found": "2026-04-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/cons-tc-ai-and-data-ai-and-aut-process-ai-and-aut-devp-manager-mul-posi-1697703-at-ey-4396150878",
-        "title": "Cons - TC - AI and Data - AI and Aut Process AI and Aut Devp - Manager - Mul Posi - 1697703",
-        "date_found": "2026-04-01"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/pega-developer-ssa-at-virtusa-4390544300",
         "title": "Pega Developer (SSA)",
-        "date_found": "2026-04-02"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-admin-at-futran-solutions-4394986169",
-        "title": "PEGA Admin",
         "date_found": "2026-04-02"
     },
     {
@@ -42,11 +27,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/lead-senior-business-architect-at-evonsys-4392877989",
         "title": "Lead / Senior Business Architect",
-        "date_found": "2026-04-02"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-pega-lead-system-architect-lsa-at-jps-tech-solutions-4395233562",
-        "title": "Senior Pega Lead System Architect (LSA)",
         "date_found": "2026-04-02"
     },
     {
@@ -202,11 +182,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/computer-systems-engineer-pega-resource-at-leidos-4376109817",
         "title": "Computer Systems Engineer - Pega Resource",
-        "date_found": "2026-04-02"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/customer-experience-manager-at-radiant-digital-4393046749",
-        "title": "Customer Experience Manager",
         "date_found": "2026-04-02"
     },
     {
@@ -410,11 +385,6 @@
         "date_found": "2026-04-08"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/pega-lsa-part-1-with-constellation-exp-at-futran-solutions-4398057169",
-        "title": "PEGA LSA Part 1 with Constellation exp",
-        "date_found": "2026-04-08"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-it-database-engineer-at-pegasystems-4397965596",
         "title": "Senior IT Database Engineer",
         "date_found": "2026-04-08"
@@ -427,11 +397,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/contractor-enterprise-technology-systems-at-techwish-4398292332",
         "title": "Contractor - Enterprise Technology Systems",
-        "date_found": "2026-04-08"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-developer-only-w2-contract-at-voto-consulting-llc-4394722524",
-        "title": "Pega Developer (Only W2 Contract)",
         "date_found": "2026-04-08"
     },
     {
@@ -448,5 +413,40 @@
         "url": "https://www.linkedin.com/jobs/view/pega-lead-decisioning-architect-at-pearlsoft-solutions-inc-4395452156",
         "title": "Pega Lead Decisioning Architect",
         "date_found": "2026-04-08"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-admin-at-futran-solutions-4399433080",
+        "title": "PEGA Admin",
+        "date_found": "2026-04-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-java-spring-flowable-bpm-at-pnc-4393829054",
+        "title": "Software Engineer Sr (Java, Spring, Flowable BPM)",
+        "date_found": "2026-04-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-java-spring-flowable-bpm-at-pnc-4393823316",
+        "title": "Software Engineer Sr (Java, Spring, Flowable BPM)",
+        "date_found": "2026-04-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-bpm-architect-at-sensiple-4396352457",
+        "title": "Pega BPM Architect",
+        "date_found": "2026-04-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-pega-architect-at-confidential-4397204285",
+        "title": "Senior Pega Architect",
+        "date_found": "2026-04-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-pega-decisioning-architect-at-jconnect-infotech-inc-4396345688",
+        "title": "Lead Pega Decisioning Architect",
+        "date_found": "2026-04-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-pega-lead-system-architect-lsa-at-jps-tech-solutions-4399820646",
+        "title": "Senior Pega Lead System Architect (LSA)",
+        "date_found": "2026-04-09"
     }
 ]
