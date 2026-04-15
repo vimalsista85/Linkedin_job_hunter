@@ -1,15 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-genesis-consulting-partners-llc-4398062525",
-        "title": "Pega Developer",
-        "date_found": "2026-04-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-java-spring-flowable-bpm-at-pnc-4393810799",
-        "title": "Software Engineer Sr (Java, Spring, Flowable BPM)",
-        "date_found": "2026-04-07"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/pega-systems-architect-vice-president-at-icapital-4398924128",
         "title": "Pega Systems Architect - Vice President",
         "date_found": "2026-04-08"
@@ -72,11 +62,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-java-spring-flowable-bpm-at-pnc-4393823316",
         "title": "Software Engineer Sr (Java, Spring, Flowable BPM)",
-        "date_found": "2026-04-09"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-pega-architect-at-confidential-4397204285",
-        "title": "Senior Pega Architect",
         "date_found": "2026-04-09"
     },
     {
@@ -182,11 +167,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/solution-developer-at-system-automation-corporation-4378976117",
         "title": "Solution Developer",
-        "date_found": "2026-04-10"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-certified-product-owner-cspo-popm-required-locals-only-hybrid-role-at-zillion-technologies-inc-4398128708",
-        "title": "Sr. Certified Product Owner -  CSPO / POPM Required   ( LOCALS ONLY ) ---- Hybrid Role",
         "date_found": "2026-04-10"
     },
     {
@@ -310,11 +290,6 @@
         "date_found": "2026-04-13"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/contract-role-senior-pega-software-engineer-at-alpharetta-ga-onsite-hybrid-model-at-yochana-4399647072",
-        "title": "Contract Role: Senior Pega Software Engineer at Alpharetta, GA (Onsite - Hybrid Model)",
-        "date_found": "2026-04-13"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/pega-lead-system-architect-at-lak-software-solutions-inc-4399053118",
         "title": "Pega Lead System Architect",
         "date_found": "2026-04-13"
@@ -395,11 +370,6 @@
         "date_found": "2026-04-14"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/pega-robotics-automation-developer-test-engineer-at-themesoft-inc-4401775407",
-        "title": "Pega Robotics Automation Developer/Test Engineer",
-        "date_found": "2026-04-14"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-specialist-architecture-at-ltm-4399597620",
         "title": "Senior Specialist - Architecture",
         "date_found": "2026-04-14"
@@ -417,11 +387,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/technical-program-manager-%3F-rpa-ai-at-wonderbotz-4399648333",
         "title": "Technical Program Manager ? RPA & AI",
-        "date_found": "2026-04-14"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/crm-technical-lead-at-flexon-technologies-talent360-ai-4399678684",
-        "title": "CRM Technical Lead",
         "date_found": "2026-04-14"
     },
     {
@@ -448,5 +413,40 @@
         "url": "https://www.linkedin.com/jobs/view/pega-engagement-manager-at-capgemini-4400655002",
         "title": "Pega Engagement Manager",
         "date_found": "2026-04-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-lead-system-architect-at-lumiere-systems-4401136797",
+        "title": "Pega Lead System Architect",
+        "date_found": "2026-04-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/technical-program-manager-pega-delivery-executive-facing-at-enquo-4402080856",
+        "title": "Technical Program Manager (Pega Delivery - Executive Facing)",
+        "date_found": "2026-04-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-people-consultancy-services-pcs-4400775583",
+        "title": "Pega Developer",
+        "date_found": "2026-04-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-hire-in-solutions-4401448320",
+        "title": "Pega Developer",
+        "date_found": "2026-04-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-developer-jis131032-at-mm-management-consultant-4402280765",
+        "title": "Pega Developer - JIS131032",
+        "date_found": "2026-04-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-senior-developer-at-net2source-n2s-4402513055",
+        "title": "Pega Senior Developer",
+        "date_found": "2026-04-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-lead-system-architect-at-georgiatek-systems-inc-4399982045",
+        "title": "Pega Lead System Architect",
+        "date_found": "2026-04-15"
     }
 ]
