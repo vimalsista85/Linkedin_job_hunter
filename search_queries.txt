@@ -1,6 +1,6 @@
 location: united states
-email: sujith0001k@gmail.com
-distance: 25
-search_term: pega
+email: vimalsista85@gmail.com
+distance: 3000
+search_term: pega, snowflake, obiee, sql, plsql, dbt
 max_jobs: 30
-keywords: pega, pega lead, pega lsa
+keywords: pega, pega lead, pega lsa, sql, plsql, snowflake, obiee, dbt
