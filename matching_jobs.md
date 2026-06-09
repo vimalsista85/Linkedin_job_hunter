@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-06-08)
+# Pega Job Search Results (2026-06-09)
 
 **Jobs Meeting Criteria:** 30
 
@@ -88,39 +88,39 @@
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 22. [Job Post](https://www.linkedin.com/jobs/view/senior-backend-engineer-data-systems-at-code-metal-4423575136)
+### 22. [Job Post](https://www.linkedin.com/jobs/view/software-development-specialist-at-ntt-data-north-america-4424101376)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 23. [Job Post](https://www.linkedin.com/jobs/view/software-development-specialist-at-ntt-data-north-america-4424101376)
+### 23. [Job Post](https://www.linkedin.com/jobs/view/application-solutions-engineer-at-pantherx-rare-pharmacy-4424462785)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 24. [Job Post](https://www.linkedin.com/jobs/view/application-solutions-engineer-at-pantherx-rare-pharmacy-4424462785)
+### 24. [Job Post](https://www.linkedin.com/jobs/view/senior-engineer-at-trustage-4419231035)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 25. [Job Post](https://www.linkedin.com/jobs/view/senior-engineer-at-trustage-4419231035)
+### 25. [Job Post](https://www.linkedin.com/jobs/view/data-architect-lead-engineer-at-pnc-4423567368)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 26. [Job Post](https://www.linkedin.com/jobs/view/data-architect-lead-engineer-at-pnc-4423567368)
+### 26. [Job Post](https://www.linkedin.com/jobs/view/data-integration-and-analytics-developer-at-boeing-4421555515)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 27. [Job Post](https://www.linkedin.com/jobs/view/data-integration-and-analytics-developer-at-boeing-4421555515)
+### 27. [Job Post](https://www.linkedin.com/jobs/view/database-administrator-data-warehouse-etl-focus-at-siritech-solutions-corp-4423052595)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 28. [Job Post](https://www.linkedin.com/jobs/view/database-administrator-data-warehouse-etl-focus-at-siritech-solutions-corp-4423052595)
+### 28. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-sovos-4423031184)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 29. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-sovos-4423031184)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 30. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-power-bi-at-fidelity-investments-4424771749)
+### 29. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-power-bi-at-fidelity-investments-4424771749)
 > **Company:** Power BI | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 30. [Job Post](https://www.linkedin.com/jobs/view/director-database-administration-at-fidelity-investments-4422173603)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
