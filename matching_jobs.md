@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-06-22)
+# Pega Job Search Results (2026-06-23)
 
 **Jobs Meeting Criteria:** 30
 
@@ -57,7 +57,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 14. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-mastech-digital-4427377740)
-> **Company:** Not Found | **Location:** united states | **Salary:** $120,000 - $120,000
+> **Company:** Not Found | **Location:** united states | **Salary:** $115,000 - $130,000
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 15. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-metropolis-technologies-4401328822)
