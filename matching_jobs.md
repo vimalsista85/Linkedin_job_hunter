@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-06-30)
+# Pega Job Search Results (2026-07-01)
 
 **Jobs Meeting Criteria:** 30
 
@@ -121,6 +121,6 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 30. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-anblicks-4430269081)
-> **Company:** Not Found | **Location:** united states | **Salary:** $100,
+> **Company:** Not Found | **Location:** united states | **Salary:** $125,000 - $140,000
 > **Analyst Reasoning:** Pega keywords found.
 
