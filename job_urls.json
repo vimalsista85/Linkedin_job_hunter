@@ -1,110 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-harnham-4436126050",
-        "title": "Senior Analytics Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-database-engineer-sql-oracle-pl-sql-informatica-etl-powercenter-at-capgemini-4435341326",
-        "title": "Data / Database Engineer - SQL, Oracle, PL/SQL, Informatica, ETL, Powercenter",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-database-platfoms-at-bessemer-trust-4425723746",
-        "title": "Senior Software Engineer (Database platfoms)",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/software-architect-%E2%80%93-development-at-wesco-4437495041",
-        "title": "Software Architect \u2013 Development",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-developer-avp-at-barclays-4433753050",
-        "title": "Sr. Developer, AVP",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-architect-technology-architecture-at-publix-super-markets-4437163093",
-        "title": "Data Architect - Technology Architecture",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-huxley-4437125132",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/database-data-platform-administrator-at-colorado-pera-4436377470",
-        "title": "Database & Data Platform Administrator",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-it-engineer-at-joco-4436248728",
-        "title": "Senior IT Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/principal-bi-engineer-at-bayone-solutions-4435235063",
-        "title": "Principal BI Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/principal-business-intelligence-engineer-at-coherent-corp-4413633641",
-        "title": "Principal Business Intelligence Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/technical-lead-at-vbeyond-corporation-4435830633",
-        "title": "Technical Lead",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-bold-penguin-4436119594",
-        "title": "Senior Analytics Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-onsite-at-cognizant-4426689905",
-        "title": "Lead Data Engineer (Onsite)",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-data-engineering-at-plaid-4410010061",
-        "title": "Senior Data Engineer - Data Engineering",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-integration-and-analytics-developer-at-boeing-4432746196",
-        "title": "Data Integration and Analytics Developer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-lucyrx-4437468477",
-        "title": "Data Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-harnham-4436437291",
-        "title": "Senior Analytics Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-kobie-4426967663",
-        "title": "Sr. Data Engineer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/lead-sql-developer-at-siepe-4374316051",
-        "title": "Lead SQL Developer",
-        "date_found": "2026-07-07"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/database-developer-at-system-soft-technologies-4438231625",
-        "title": "Database Developer",
-        "date_found": "2026-07-08"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-lead-engineer-at-quest-global-4436868374",
         "title": "Senior Lead Engineer",
         "date_found": "2026-07-08"
@@ -147,11 +42,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-artisan-partners-4416313855",
         "title": "Data Platform Engineer",
-        "date_found": "2026-07-08"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/etl-developer-at-raas-infotek-4437780819",
-        "title": "ETL developer",
         "date_found": "2026-07-08"
     },
     {
@@ -283,5 +173,270 @@
         "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-psecu-4325078269",
         "title": "Senior Analytics Engineer",
         "date_found": "2026-07-08"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-petsmart-4435934314",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineering-architect-at-infosys-4436631751",
+        "title": "Data Engineering Architect",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-brigit-4437607305",
+        "title": "Senior Analytics Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-database-engineer-at-the-depository-trust-clearing-corporation-dtcc-4337010351",
+        "title": "Lead Database Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-at-cantor-fitzgerald-4418868157",
+        "title": "Senior Database Developer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-fidelity-investments-4440869701",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-copart-4364366476",
+        "title": "Sr. Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/programmer-analyst-at-ocuinfotech-4440515325",
+        "title": "Programmer Analyst",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/it-dba-advisor-sr-at-sedgwick-4438010814",
+        "title": "IT DBA Advisor Sr",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-manager-of-data-engineering-at-geico-4418838462",
+        "title": "Senior Manager of Data Engineering",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-data-platform-at-crewai-4438694856",
+        "title": "Lead Data Engineer, Data Platform",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-snowflake-python-oracle-pl-sql-developer-w2-candidates-at-shrive-technologies-4439577537",
+        "title": "Sr. Snowflake, Python, Oracle PL/SQL Developer- W2 Candidates",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-european-wax-center-4437065494",
+        "title": "Sr. Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-betterup-4428768821",
+        "title": "Senior Analytics Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/engineer-sr-engineer-it-data-at-american-airlines-4429411697",
+        "title": "Engineer/Sr Engineer, IT Data",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-people-analytics-engineer-at-rivian-4410863314",
+        "title": "Senior People Analytics Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-at-weill-cornell-medicine-4438036208",
+        "title": "Senior Database Developer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-baird-4437935154",
+        "title": "Data & Analytics Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-analytics-engineer-at-obsidian-security-4420686372",
+        "title": "Lead Analytics Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-platform-engineer-at-rocket-money-4413828385",
+        "title": "Senior Data Platform Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-database-engineer-at-fabick-cat-4438344752",
+        "title": "Sr. Database Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-reporting-analytics-at-drata-4419432853",
+        "title": "Senior Data Engineer, Reporting & Analytics",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/database-developer-at-trigent-software-inc-4439875876",
+        "title": "Database Developer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-member-of-technical-staff-at-oracle-4432229454",
+        "title": "Senior Member of Technical Staff",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-kayak-4411886630",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-solutions-engineer-at-amiseq-4439358221",
+        "title": "Data Solutions Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-power-bi-at-fidelity-investments-4440806393",
+        "title": "Senior Data Engineer - Power BI",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-bi-engineer-at-altana-4400862767",
+        "title": "Lead BI Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/it-specialist-at-jsm-consulting-inc-4440898991",
+        "title": "IT Specialist",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/usa-senior-data-engineer-at-walmart-4429422995",
+        "title": "(USA) Senior, Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-south-college-4436632598",
+        "title": "Database Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-warehouse-engineer-at-mohegan-4403784622",
+        "title": "Data Warehouse Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-mercor-4411846650",
+        "title": "Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-freddie-mac-4439892181",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-data-engineering-at-plaid-4411666197",
+        "title": "Senior Data Engineer - Data Engineering",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-platform-engineer-at-rocket-money-4413826453",
+        "title": "Senior Data Platform Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-agility-partners-4440097109",
+        "title": "Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-business-intelligence-engineer-at-safelite-4437632099",
+        "title": "Senior Business Intelligence Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-data-insights-at-roblox-4437922758",
+        "title": "Senior Software Engineer, Data Insights",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-stock-yards-bank-trust-4427378409",
+        "title": "Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/engineer-at-tata-consultancy-services-4419345483",
+        "title": "Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-and-software-engineer-at-affinity-solutions-4371994403",
+        "title": "Senior Data and Software Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/database-architect-at-jsm-consulting-inc-4440507226",
+        "title": "Database Architect",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-member-of-technical-staff-at-oracle-4432240265",
+        "title": "Senior Member of Technical Staff",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-garner-health-4401453677",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-dba-at-ice-4379968929",
+        "title": "Senior Database Developer, DBA",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-geode-capital-management-4440828867",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-data-analytics-at-orthomed-anesthesia-4440329352",
+        "title": "Lead - Data & Analytics",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-iii-at-petsafe-brands-4377487286",
+        "title": "Data Engineer III",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-betterup-4430089392",
+        "title": "Senior Analytics Engineer",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-director-at-morgan-stanley-4438913317",
+        "title": "Data Engineer - Director",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-architect-at-further-4412413756",
+        "title": "Data Architect",
+        "date_found": "2026-07-15"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hmh-4440580317",
+        "title": "Data Engineer",
+        "date_found": "2026-07-15"
     }
 ]
