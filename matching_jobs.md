@@ -1,126 +1,126 @@
-# Pega Job Search Results (2026-07-15)
+# Pega Job Search Results (2026-07-16)
 
 **Jobs Meeting Criteria:** 30
 
 ## ✅ Approved Jobs (Correct Location)
 
-### 1. [Job Post](https://www.linkedin.com/jobs/view/senior-lead-engineer-at-quest-global-4436868374)
+### 1. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-petsmart-4435934314)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 2. [Job Post](https://www.linkedin.com/jobs/view/production-engineer-oracle-snowflake-python-at-toyota-north-america-4423977608)
+### 2. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-brigit-4437607305)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 3. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-data-analytics-reporting-at-tatcha-4429559904)
+### 3. [Job Post](https://www.linkedin.com/jobs/view/lead-database-engineer-at-the-depository-trust-clearing-corporation-dtcc-4337010351)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 4. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-sogal-ventures-4436905612)
+### 4. [Job Post](https://www.linkedin.com/jobs/view/senior-database-developer-at-cantor-fitzgerald-4418868157)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 5. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-kobie-4426969651)
+### 5. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-fidelity-investments-4440869701)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 6. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-pilot-com-4416313907)
+### 6. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-copart-4364366476)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 7. [Job Post](https://www.linkedin.com/jobs/view/senior-database-engineer-at-belay-technologies-4435878997)
+### 7. [Job Post](https://www.linkedin.com/jobs/view/programmer-analyst-at-ocuinfotech-4440515325)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 8. [Job Post](https://www.linkedin.com/jobs/view/data-platform-engineer-at-artisan-partners-4416313855)
+### 8. [Job Post](https://www.linkedin.com/jobs/view/sr-snowflake-python-oracle-pl-sql-developer-w2-candidates-at-shrive-technologies-4439577537)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 9. [Job Post](https://www.linkedin.com/jobs/view/senior-software-analyst-office-of-innovative-technologies-utk-at-university-of-tennessee-knoxville-4436412319)
-> **Company:** UTK | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 10. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-alto-4436877009)
+### 9. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-european-wax-center-4437065494)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 11. [Job Post](https://www.linkedin.com/jobs/view/feature-lead-technology-at-bank-of-america-4437832399)
-> **Company:** Technology | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 12. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-pilot-com-4414521516)
+### 10. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-betterup-4428768821)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 13. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-mclane-company-inc-4409132349)
+### 11. [Job Post](https://www.linkedin.com/jobs/view/senior-people-analytics-engineer-at-rivian-4410863314)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 14. [Job Post](https://www.linkedin.com/jobs/view/is-technical-specialist-at-huntington-national-bank-4429118791)
+### 12. [Job Post](https://www.linkedin.com/jobs/view/senior-database-developer-at-weill-cornell-medicine-4438036208)
+> **Company:** Not Found | **Location:** united states | **Salary:** $119,150.00 - $137,100.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 13. [Job Post](https://www.linkedin.com/jobs/view/lead-analytics-engineer-at-obsidian-security-4420686372)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 15. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-metropolis-technologies-4401347209)
+### 14. [Job Post](https://www.linkedin.com/jobs/view/senior-data-platform-engineer-at-rocket-money-4413828385)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 16. [Job Post](https://www.linkedin.com/jobs/view/senior-database-developer-at-pennymac-4360580867)
+### 15. [Job Post](https://www.linkedin.com/jobs/view/database-developer-at-trigent-software-inc-4439875876)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 17. [Job Post](https://www.linkedin.com/jobs/view/database-engineer-ii-at-aeg-4407921626)
+### 16. [Job Post](https://www.linkedin.com/jobs/view/senior-member-of-technical-staff-at-oracle-4432229454)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 18. [Job Post](https://www.linkedin.com/jobs/view/feature-lead-technology-at-bank-of-america-4437831405)
-> **Company:** Technology | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 19. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-medpace-4354941330)
+### 17. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-kayak-4411886630)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 20. [Job Post](https://www.linkedin.com/jobs/view/it-specialist-at-i-link-solutions-4434505152)
+### 18. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-power-bi-at-fidelity-investments-4440806393)
+> **Company:** Power BI | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 19. [Job Post](https://www.linkedin.com/jobs/view/lead-bi-engineer-at-altana-4400862767)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 21. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-agility-partners-4438235791)
+### 20. [Job Post](https://www.linkedin.com/jobs/view/it-specialist-at-jsm-consulting-inc-4440898991)
+> **Company:** Not Found | **Location:** united states | **Salary:** $30 - $34.50
+> **Analyst Reasoning:** Pega keywords found.
+
+### 21. [Job Post](https://www.linkedin.com/jobs/view/usa-senior-data-engineer-at-walmart-4429422995)
+> **Company:** Not Found | **Location:** united states | **Salary:** $117,000.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 22. [Job Post](https://www.linkedin.com/jobs/view/database-engineer-at-south-college-4436632598)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 22. [Job Post](https://www.linkedin.com/jobs/view/senior-data-analytics-engineer-at-riot-platforms-inc-4426668368)
+### 23. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-mercor-4411846650)
+> **Company:** Not Found | **Location:** united states | **Salary:** $130,000.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 24. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-freddie-mac-4439892181)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 23. [Job Post](https://www.linkedin.com/jobs/view/lead-platform-data-engineer-at-allegion-4434640635)
+### 25. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-data-engineering-at-plaid-4411666197)
+> **Company:** Data Engineering | **Location:** united states | **Salary:** $190,800.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 26. [Job Post](https://www.linkedin.com/jobs/view/senior-data-platform-engineer-at-rocket-money-4413826453)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 24. [Job Post](https://www.linkedin.com/jobs/view/senior-data-analytics-engineer-at-liberty-mutual-insurance-4438105063)
-> **Company:** Not Found | **Location:** united states | **Salary:** $106,000.00
+### 27. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-agility-partners-4440097109)
+> **Company:** Not Found | **Location:** united states | **Salary:** $65.00
 > **Analyst Reasoning:** Pega keywords found.
 
-### 25. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-janus-henderson-investors-4433113386)
-> **Company:** Not Found | **Location:** united states | **Salary:** $169,062
-> **Analyst Reasoning:** Pega keywords found.
-
-### 26. [Job Post](https://www.linkedin.com/jobs/view/senior-data-analytics-engineer-at-liberty-mutual-insurance-4437886868)
-> **Company:** Not Found | **Location:** united states | **Salary:** $106,000.00
-> **Analyst Reasoning:** Pega keywords found.
-
-### 27. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-iii-at-emc-insurance-companies-4427911065)
+### 28. [Job Post](https://www.linkedin.com/jobs/view/senior-business-intelligence-engineer-at-safelite-4437632099)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 28. [Job Post](https://www.linkedin.com/jobs/view/database-administration-specialist-2-at-state-of-ohio-4434560412)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+### 29. [Job Post](https://www.linkedin.com/jobs/view/engineer-at-tata-consultancy-services-4419345483)
+> **Company:** Not Found | **Location:** united states | **Salary:** $75,000-$88,000
 > **Analyst Reasoning:** Pega keywords found.
 
-### 29. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-psecu-4325078269)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 30. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-petsmart-4435934314)
+### 30. [Job Post](https://www.linkedin.com/jobs/view/senior-data-and-software-engineer-at-affinity-solutions-4371994403)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
