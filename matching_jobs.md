@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-07-20)
+# Pega Job Search Results (2026-07-21)
 
 **Jobs Meeting Criteria:** 30
 
@@ -85,7 +85,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 21. [Job Post](https://www.linkedin.com/jobs/view/it-specialist-at-jsm-consulting-inc-4440898991)
-> **Company:** Not Found | **Location:** united states | **Salary:** $30 - $34.50
+> **Company:** Not Found | **Location:** united states | **Salary:** $71,427 - $98,409
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 22. [Job Post](https://www.linkedin.com/jobs/view/usa-senior-data-engineer-at-walmart-4429422995)
