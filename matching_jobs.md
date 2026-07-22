@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-07-21)
+# Pega Job Search Results (2026-07-22)
 
 **Jobs Meeting Criteria:** 30
 
