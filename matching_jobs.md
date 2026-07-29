@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-07-28)
+# Pega Job Search Results (2026-07-29)
 
 **Jobs Meeting Criteria:** 30
 
@@ -117,7 +117,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 29. [Job Post](https://www.linkedin.com/jobs/view/enterprise-data-engineer-at-sammons-financial-group-companies-4443939893)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Company:** Not Found | **Location:** united states | **Salary:** $95,311.00
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 30. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-janus-henderson-investors-4433113386)
