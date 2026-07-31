@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-07-30)
+# Pega Job Search Results (2026-07-31)
 
 **Jobs Meeting Criteria:** 30
 
@@ -41,7 +41,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 10. [Job Post](https://www.linkedin.com/jobs/view/sql-developer-at-anblicks-4443955319)
-> **Company:** Not Found | **Location:** united states | **Salary:** $120,000 - $130,000
+> **Company:** Not Found | **Location:** united states | **Salary:** $100,000 - $115,000
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 11. [Job Post](https://www.linkedin.com/jobs/view/principal-data-business-intelligence-engineer-at-coherent-corp-4413633641)
@@ -117,7 +117,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 29. [Job Post](https://www.linkedin.com/jobs/view/enterprise-data-engineer-at-sammons-financial-group-companies-4443939893)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Company:** Not Found | **Location:** united states | **Salary:** $95,311.00
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 30. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-janus-henderson-investors-4433113386)
