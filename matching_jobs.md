@@ -1,11 +1,11 @@
-# Pega Job Search Results (2026-08-03)
+# Pega Job Search Results (2026-08-04)
 
 **Jobs Meeting Criteria:** 30
 
 ## ✅ Approved Jobs (Correct Location)
 
 ### 1. [Job Post](https://www.linkedin.com/jobs/view/expert-it-specialist-at-voyatek-4446777072)
-> **Company:** Not Found | **Location:** united states | **Salary:** $131,622.40 - $178,630.40
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 2. [Job Post](https://www.linkedin.com/jobs/view/software-architect-%E2%80%93-development-at-wesco-4437495041)
@@ -33,7 +33,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 8. [Job Post](https://www.linkedin.com/jobs/view/software-architect-at-jsm-consulting-inc-4444539098)
-> **Company:** Not Found | **Location:** united states | **Salary:** $100,000 - $150,000
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 9. [Job Post](https://www.linkedin.com/jobs/view/production-engineer-oracle-snowflake-python-at-toyota-north-america-4423977608)
@@ -89,7 +89,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 22. [Job Post](https://www.linkedin.com/jobs/view/database-developer-at-mastech-digital-4442876232)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Company:** Not Found | **Location:** united states | **Salary:** $135,000 - $150,000
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 23. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineering-developer-at-premise-health-4446583110)
@@ -109,7 +109,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 27. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-blutic-4445206726)
-> **Company:** Not Found | **Location:** united states | **Salary:** $224,000 - $279,000
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 28. [Job Post](https://www.linkedin.com/jobs/view/database-engineer-ii-at-aeg-4407921626)
