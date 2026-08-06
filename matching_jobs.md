@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-08-05)
+# Pega Job Search Results (2026-08-06)
 
 **Jobs Meeting Criteria:** 30
 
@@ -68,59 +68,59 @@
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 17. [Job Post](https://www.linkedin.com/jobs/view/senior-database-administrator-at-synechron-4443675404)
+### 17. [Job Post](https://www.linkedin.com/jobs/view/data-engineering-director-at-blackrock-4447506890)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 18. [Job Post](https://www.linkedin.com/jobs/view/data-engineering-director-at-blackrock-4447506890)
+### 18. [Job Post](https://www.linkedin.com/jobs/view/lead-database-engineer-at-appian-4445957498)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 19. [Job Post](https://www.linkedin.com/jobs/view/lead-database-engineer-at-appian-4445957498)
+### 19. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-kobie-4426969651)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 20. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-kobie-4426969651)
+### 20. [Job Post](https://www.linkedin.com/jobs/view/sr-analytics-engineer-at-pelago-4445279094)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 21. [Job Post](https://www.linkedin.com/jobs/view/sr-analytics-engineer-at-pelago-4445279094)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 22. [Job Post](https://www.linkedin.com/jobs/view/database-developer-at-mastech-digital-4442876232)
+### 21. [Job Post](https://www.linkedin.com/jobs/view/database-developer-at-mastech-digital-4442876232)
 > **Company:** Not Found | **Location:** united states | **Salary:** $135,000 - $150,000
 > **Analyst Reasoning:** Pega keywords found.
 
-### 23. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineering-developer-at-premise-health-4446583110)
+### 22. [Job Post](https://www.linkedin.com/jobs/view/senior-analytics-engineering-developer-at-premise-health-4446583110)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 24. [Job Post](https://www.linkedin.com/jobs/view/usa-senior-data-engineer-at-walmart-4445441834)
+### 23. [Job Post](https://www.linkedin.com/jobs/view/usa-senior-data-engineer-at-walmart-4445441834)
 > **Company:** Not Found | **Location:** united states | **Salary:** $117,000.00
 > **Analyst Reasoning:** Pega keywords found.
 
-### 25. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-mclane-company-inc-4409132349)
+### 24. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-mclane-company-inc-4409132349)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 26. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-blutic-4445206726)
+### 25. [Job Post](https://www.linkedin.com/jobs/view/database-engineer-ii-at-aeg-4407921626)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 27. [Job Post](https://www.linkedin.com/jobs/view/database-engineer-ii-at-aeg-4407921626)
+### 26. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-medpace-4354941330)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 28. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-medpace-4354941330)
+### 27. [Job Post](https://www.linkedin.com/jobs/view/database-architect-in-person-interview-at-sligo-software-solutions-inc-4445357139)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 29. [Job Post](https://www.linkedin.com/jobs/view/database-architect-in-person-interview-at-sligo-software-solutions-inc-4445357139)
+### 28. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-capgemini-4444516150)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 30. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-capgemini-4444516150)
+### 29. [Job Post](https://www.linkedin.com/jobs/view/senior-database-developer-dba-at-ice-4379968929)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 30. [Job Post](https://www.linkedin.com/jobs/view/senior-data-platform-engineer-assistant-vice-president-at-citi-4406548901)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
