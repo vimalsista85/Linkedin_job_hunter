@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-08-06)
+# Pega Job Search Results (2026-08-07)
 
 **Jobs Meeting Criteria:** 30
 
@@ -120,7 +120,7 @@
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 30. [Job Post](https://www.linkedin.com/jobs/view/senior-data-platform-engineer-assistant-vice-president-at-citi-4406548901)
+### 30. [Job Post](https://www.linkedin.com/jobs/view/hbits-08-14906-software-architect-expert-at-knowledge-builders-inc-4445649267)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
