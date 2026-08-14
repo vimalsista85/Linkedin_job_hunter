@@ -1,75 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-enterprise-applications-engineer-at-cox-automotive-inc-4386764341",
-        "title": "Senior Enterprise Applications Engineer",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/postgre-sql-developer-at-system-soft-technologies-4448567756",
-        "title": "PostGre SQL Developer",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/lead-database-engineer-at-the-depository-trust-clearing-corporation-dtcc-4337010351",
-        "title": "Lead Database Engineer",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-postgresql-at-midwest-tape-llc-4449690627",
-        "title": "Senior Database Developer, PostgreSQL",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-huxley-4449900679",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/database-developer-postgresql-oracle-at-themesoft-inc-4450264480",
-        "title": "Database Developer (PostgreSQL/Oracle)",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-mgic-4448052966",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/feature-lead-technology-at-bank-of-america-4441220041",
-        "title": "Feature Lead - Technology",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cisco-4450287366",
-        "title": "Data Engineer",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-pilot-com-4416313907",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-at-tata-technologies-4449010115",
-        "title": "Senior Database Developer",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-member-of-technical-staff-at-oracle-4432229454",
-        "title": "Senior Member of Technical Staff",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-power-bi-at-fidelity-investments-4440806393",
-        "title": "Senior Data Engineer - Power BI",
-        "date_found": "2026-08-06"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/postgresql-engineer-at-system-soft-technologies-4449081134",
-        "title": "PostgreSQL Engineer",
-        "date_found": "2026-08-06"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-database-engineer-eagle-platform-oracle-plsql-at-bny-4414971958",
         "title": "Senior Database Engineer - Eagle Platform (Oracle/PLSQL)",
         "date_found": "2026-08-10"
@@ -265,11 +195,6 @@
         "date_found": "2026-08-10"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/snowflake-bi-engineer-at-bayone-solutions-4450351969",
-        "title": "Snowflake BI Engineer",
-        "date_found": "2026-08-10"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-alchemy-4404561382",
         "title": "Data Analytics Engineer",
         "date_found": "2026-08-10"
@@ -448,5 +373,80 @@
         "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-data-platform-at-fal-4452760028",
         "title": "Senior Software Engineer, Data Platform",
         "date_found": "2026-08-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-enterprise-applications-engineer-at-cox-automotive-inc-4386764341",
+        "title": "Senior Enterprise Applications Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-ntt-data-north-america-4454336755",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-on-site-at-ntt-data-north-america-4454356469",
+        "title": "Senior Data Engineer (On-Site)",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-postgresql-at-midwest-tape-llc-4449690627",
+        "title": "Senior Database Developer, PostgreSQL",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-goodwin-4454341437",
+        "title": "Sr. Data Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-goodwin-4454344408",
+        "title": "Sr. Data Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-pilot-com-4416313907",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-platform-engineer-at-texicare-4454389017",
+        "title": "Senior Data Platform Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-accylerate-4454047577",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-at-tata-technologies-4449010115",
+        "title": "Senior Database Developer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-clevanoo-llc-4453278307",
+        "title": "Data Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-engineer-%E2%80%93-software-at-echostar-corporation-4452738903",
+        "title": "Principal Engineer \u2013 Software",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-database-reliability-engineer-at-scribe-4425592441",
+        "title": "Senior Database Reliability Engineer",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/director-database-administration-at-fidelity-investments-4454078733",
+        "title": "Director, Database Administration",
+        "date_found": "2026-08-14"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-finoit-inc-4453377089",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-14"
     }
 ]
