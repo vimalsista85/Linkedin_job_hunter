@@ -1,55 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/sr-systems-engineer-at-mastec-clean-energy-infrastructure-4402831060",
-        "title": "Sr Systems Engineer",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-database-engineer-at-texas-health-and-human-services-4453043791",
-        "title": "Senior Database Engineer",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-data-platform-at-happyglobal-service-4453076950",
-        "title": "Senior Software Engineer \u2013 Data Platform",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/engineer-sr-engineer-it-data-at-american-airlines-4429411697",
-        "title": "Engineer/Sr Engineer, IT Data",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-tential-solutions-4434783783",
-        "title": "Sr Data Engineer",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-fieldguide-at-jack-jill-4452394672",
-        "title": "Senior Analytics Engineer at Fieldguide",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-oracle-data-engineer-onsite-at-ntt-data-north-america-4450686266",
-        "title": "Senior Oracle Data Engineer - Onsite",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pl-sql-developer-at-mastech-digital-4445036123",
-        "title": "PL/SQL Developer",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-willow-wealth-4425676033",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-12"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-%E2%80%93-etl-and-data-modernization-at-concentrix-4451943850",
-        "title": "Senior Data Engineer \u2013 ETL and Data Modernization",
-        "date_found": "2026-08-12"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-sweep-at-intrafi-4435340782",
         "title": "Senior Software Engineer (Sweep)",
         "date_found": "2026-08-13"
@@ -57,11 +7,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-bcbs-global-solutions-4443046953",
         "title": "Senior Data Engineer",
-        "date_found": "2026-08-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-developer-at-rylem-staffing-4452716401",
-        "title": "Business Intelligence Developer",
         "date_found": "2026-08-13"
     },
     {
@@ -192,11 +137,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-amtrust-financial-services-inc-4453735149",
         "title": "Senior Software Engineer",
-        "date_found": "2026-08-18"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-at-vistaltech-inc-4452814656",
-        "title": "Senior Database Developer",
         "date_found": "2026-08-18"
     },
     {
@@ -398,5 +338,115 @@
         "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-otter-ai-4454346492",
         "title": "Senior Data Engineer",
         "date_found": "2026-08-19"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-architect-data-engineer-aladdin-engineering-vice-president-at-blackrock-4455115041",
+        "title": "Senior Data Architect/Data Engineer, Aladdin Engineering - Vice President",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-staff-data-engineer-bi-%E2%80%93-ceg-team-at-agoda-4455270157",
+        "title": "Senior / Staff Data Engineer (BI) \u2013 CEG Team",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-staff-data-engineer-bi-%E2%80%93-ceg-team-at-agoda-4455271138",
+        "title": "Senior / Staff Data Engineer (BI) \u2013 CEG Team",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-charles-schwab-4451224741",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/it-data-engineer-iv-at-southstate-bank-4452889677",
+        "title": "IT Data Engineer IV",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-charles-schwab-4451221794",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/vice-president-data-architecture-at-fidelity-investments-4436384683",
+        "title": "Vice President, Data Architecture",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-plymouth-rock-assurance-4454912221",
+        "title": "Data Engineer",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-idexx-4456150404",
+        "title": "Principal Data Architect",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-tata-consultancy-services-4445171463",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-platform-architect-snowflake-at-coastal-4409057957",
+        "title": "Data Platform Architect (Snowflake)",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-solutions-architect-data-analytics-engineering-at-under-armour-4445926099",
+        "title": "Lead, Solutions Architect - Data Analytics Engineering",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-data-engineering-at-plaid-4410010061",
+        "title": "Senior Data Engineer - Data Engineering",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-architecture-engineering-manager-financial-services-consulting-nyc-at-ey-4441834630",
+        "title": "Data Architecture & Engineering - Manager - Financial Services - Consulting - NYC",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-palomar-4454451224",
+        "title": "Sr. Data Engineer",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/corporate-vice-president-data-architect-at-new-york-life-4386793075",
+        "title": "Corporate Vice President - Data Architect",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-principal-at-blue-shield-of-california-4444016609",
+        "title": "Data Engineer, Principal",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/enterprise-data-modeler-data-architect-at-steris-4417796066",
+        "title": "Enterprise Data Modeler / Data Architect",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-corporate-technology-data-engineering-analytics-at-massmutual-4321743214",
+        "title": "Data Engineer \u2013 Corporate Technology Data Engineering & Analytics",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-manager-data-analytics-insights-at-fidelity-investments-4435178983",
+        "title": "Senior Manager, Data Analytics & Insights",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-allspring-global-investments-4456314215",
+        "title": "Data Engineer",
+        "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-at-first-citizens-bank-4446195085",
+        "title": "Lead Data Engineer",
+        "date_found": "2026-08-20"
     }
 ]
