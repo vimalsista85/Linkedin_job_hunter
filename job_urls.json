@@ -1,20 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-sweep-at-intrafi-4435340782",
-        "title": "Senior Software Engineer (Sweep)",
-        "date_found": "2026-08-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-bcbs-global-solutions-4443046953",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-data-platform-at-fal-4452760028",
-        "title": "Senior Software Engineer, Data Platform",
-        "date_found": "2026-08-13"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-enterprise-applications-engineer-at-cox-automotive-inc-4386764341",
         "title": "Senior Enterprise Applications Engineer",
         "date_found": "2026-08-14"
@@ -167,11 +152,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-fieldguide-at-jack-jill-4454748612",
         "title": "Senior Analytics Engineer at Fieldguide",
-        "date_found": "2026-08-18"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-business-intelligence-engineer-at-artha-nexgen-4455191288",
-        "title": "Senior Business Intelligence Engineer",
         "date_found": "2026-08-18"
     },
     {
@@ -365,11 +345,6 @@
         "date_found": "2026-08-20"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-charles-schwab-4451221794",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-20"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/vice-president-data-architecture-at-fidelity-investments-4436384683",
         "title": "Vice President, Data Architecture",
         "date_found": "2026-08-20"
@@ -448,5 +423,30 @@
         "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-at-first-citizens-bank-4446195085",
         "title": "Lead Data Engineer",
         "date_found": "2026-08-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-capital-bank-n-a-4418274087",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-manager-of-data-engineering-at-geico-4418838462",
+        "title": "Senior Manager of Data Engineering",
+        "date_found": "2026-08-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-tata-consultancy-services-4445790378",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-business-intelligence-engineering-and-data-manager-at-safelite-4454115486",
+        "title": "Senior Business Intelligence Engineering and Data Manager",
+        "date_found": "2026-08-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/corporate-vice-president-data-architect-at-new-york-life-4457028909",
+        "title": "Corporate Vice President - Data Architect",
+        "date_found": "2026-08-21"
     }
 ]
