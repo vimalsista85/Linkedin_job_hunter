@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-08-24)
+# Pega Job Search Results (2026-08-25)
 
 **Jobs Meeting Criteria:** 30
 
@@ -89,38 +89,38 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 22. [Job Post](https://www.linkedin.com/jobs/view/enterprise-data-engineer-at-sammons-financial-group-companies-4443939893)
+> **Company:** Not Found | **Location:** united states | **Salary:** $95,311.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 23. [Job Post](https://www.linkedin.com/jobs/view/sr-lead-data-engineer-at-chick-fil-a-corporate-support-center-4454400593)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 23. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-hybrid-at-blattner-4453356627)
+### 24. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-hybrid-at-blattner-4453356627)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 24. [Job Post](https://www.linkedin.com/jobs/view/database-platform-architect-at-sprouts-farmers-market-4426650357)
+### 25. [Job Post](https://www.linkedin.com/jobs/view/database-platform-architect-at-sprouts-farmers-market-4426650357)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 25. [Job Post](https://www.linkedin.com/jobs/view/database-engineer-database-administrator-at-tampa-bay-rays-4452277968)
+### 26. [Job Post](https://www.linkedin.com/jobs/view/database-engineer-database-administrator-at-tampa-bay-rays-4452277968)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 26. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-astir-it-solutions-inc-4451261581)
+### 27. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-at-astir-it-solutions-inc-4451261581)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 27. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-devrev-4454769001)
+### 28. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-devrev-4454769001)
 > **Company:** Not Found | **Location:** united states | **Salary:** $150
 > **Analyst Reasoning:** Pega keywords found.
 
-### 28. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-gusto-4454850810)
+### 29. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-gusto-4454850810)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 29. [Job Post](https://www.linkedin.com/jobs/view/senior-data-distribution-platform-engineer-at-stockell-consulting-4453277662)
+### 30. [Job Post](https://www.linkedin.com/jobs/view/senior-data-distribution-platform-engineer-at-stockell-consulting-4453277662)
 > **Company:** Not Found | **Location:** united states | **Salary:** $104
-> **Analyst Reasoning:** Pega keywords found.
-
-### 30. [Job Post](https://www.linkedin.com/jobs/view/plsql-developer-at-ust-4444789265)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
