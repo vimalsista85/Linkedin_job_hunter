@@ -1,37 +1,7 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-capital-bank-n-a-4418274087",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-21"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-manager-of-data-engineering-at-geico-4418838462",
-        "title": "Senior Manager of Data Engineering",
-        "date_found": "2026-08-21"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-tata-consultancy-services-4445790378",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-21"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-business-intelligence-engineering-and-data-manager-at-safelite-4454115486",
-        "title": "Senior Business Intelligence Engineering and Data Manager",
-        "date_found": "2026-08-21"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/corporate-vice-president-data-architect-at-new-york-life-4457028909",
-        "title": "Corporate Vice President - Data Architect",
-        "date_found": "2026-08-21"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-pl-sql-at-fidelity-investments-4438855718",
         "title": "Senior Data Engineer - PL/SQL",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/10076640-wd-sr-database-engineer-developer-security-data-at-mufg-4457333973",
-        "title": "10076640-WD Sr. Database Engineer & Developer, Security Data",
         "date_found": "2026-08-24"
     },
     {
@@ -390,11 +360,6 @@
         "date_found": "2026-08-28"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-business-intelligence-developer-at-aequor-4456890907",
-        "title": "Senior Business Intelligence Developer",
-        "date_found": "2026-08-28"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/sr-database-administrator-at-finquery-formerly-leasequery-4460391400",
         "title": "Sr. Database Administrator",
         "date_found": "2026-08-28"
@@ -448,5 +413,40 @@
         "url": "https://www.linkedin.com/jobs/view/feature-lead-technology-at-bank-of-america-4437832399",
         "title": "Feature Lead - Technology",
         "date_found": "2026-08-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sotalent-4459225248",
+        "title": "Data Engineer",
+        "date_found": "2026-08-31"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-talend-data-engineer-at-citizens-4459632643",
+        "title": "Sr Talend Data Engineer",
+        "date_found": "2026-08-31"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-lead-at-first-mutual-holding-co-4458626863",
+        "title": "Data Engineer Lead",
+        "date_found": "2026-08-31"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/advanced-forward-engineering-data-engineer-senior-at-ey-4458025394",
+        "title": "Advanced Forward Engineering - Data Engineer - Senior",
+        "date_found": "2026-08-31"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-charles-schwab-4458820474",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-08-31"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/advanced-forward-engineering-data-engineer-senior-at-ey-4458028382",
+        "title": "Advanced Forward Engineering - Data Engineer - Senior",
+        "date_found": "2026-08-31"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-remote-at-carefirst-bluecross-blueshield-4460376545",
+        "title": "Lead Data Engineer (Remote)",
+        "date_found": "2026-08-31"
     }
 ]
