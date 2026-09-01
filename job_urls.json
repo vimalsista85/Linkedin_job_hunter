@@ -1,55 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-pl-sql-at-fidelity-investments-4438855718",
-        "title": "Senior Data Engineer - PL/SQL",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-safelite-4437628186",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-consultant-ai-and-data-risk-management-at-deloitte-4419862010",
-        "title": "Senior Consultant-AI and Data Risk Management",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/etra-senior-data-analyst-at-fidelity-investments-4447876335",
-        "title": "ETRA Senior Data Analyst",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-consultant-ai-and-data-risk-management-at-deloitte-4419854237",
-        "title": "Senior Consultant-AI and Data Risk Management",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-at-zocdoc-4418835226",
-        "title": "Staff Analytics Engineer",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineering-manager-commercial-us-at-sanofi-4456738970",
-        "title": "Data Engineering Manager, Commercial US",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-analytics-architect-at-post-holdings-4380015973",
-        "title": "Sr Analytics Architect",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-data-architecture-and-modeling-at-paramount-4438644544",
-        "title": "Sr Data Engineer (Data Architecture and Modeling)",
-        "date_found": "2026-08-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-data-platform-martech-engineering-at-gen-4435922350",
-        "title": "Senior Data Engineer - Data Platform & Martech Engineering",
-        "date_found": "2026-08-24"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-blue-cross-of-idaho-4365420331",
         "title": "Principal Data Architect",
         "date_found": "2026-08-26"
@@ -102,11 +52,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/snowflake-lead-data-engineering-at-tata-consultancy-services-4446403765",
         "title": "Snowflake Lead Data Engineering",
-        "date_found": "2026-08-26"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sotalent-4455830889",
-        "title": "Data Engineer",
         "date_found": "2026-08-26"
     },
     {
@@ -415,11 +360,6 @@
         "date_found": "2026-08-28"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sotalent-4459225248",
-        "title": "Data Engineer",
-        "date_found": "2026-08-31"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/sr-talend-data-engineer-at-citizens-4459632643",
         "title": "Sr Talend Data Engineer",
         "date_found": "2026-08-31"
@@ -448,5 +388,65 @@
         "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-remote-at-carefirst-bluecross-blueshield-4460376545",
         "title": "Lead Data Engineer (Remote)",
         "date_found": "2026-08-31"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-database-developer-at-notified-4460834347",
+        "title": "Sr Database Developer",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-healthie-4459463207",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-pl-sql-tsql-at-shamrock-foods-company-4461240680",
+        "title": "Senior Software Engineer (PL/SQL & TSQL)",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-pl-sql-tsql-at-shamrock-foods-company-4461240678",
+        "title": "Senior Software Engineer (PL/SQL & TSQL)",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-serval-4459476613",
+        "title": "Data Engineer",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/vice-president-database-engineer-eagle-platform-oracle-plsql-at-bny-4414971958",
+        "title": "Vice President, Database Engineer - Eagle Platform (Oracle/PLSQL)",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/database-analyst-senior-at-pacific-gas-and-electric-company-4460298074",
+        "title": "Database Analyst, Senior",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-sovos-4423031184",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-geico-4451484298",
+        "title": "Staff Engineer",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/technical-lead-at-sei-4451890594",
+        "title": "Technical Lead",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-warwick-investment-group-4448585406",
+        "title": "Data Engineer",
+        "date_found": "2026-09-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/feature-lead-technology-at-bank-of-america-4441202946",
+        "title": "Feature Lead - Technology",
+        "date_found": "2026-09-01"
     }
 ]
