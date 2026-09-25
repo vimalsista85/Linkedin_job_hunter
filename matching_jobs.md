@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-09-24)
+# Pega Job Search Results (2026-09-25)
 
 **Jobs Meeting Criteria:** 30
 
@@ -121,6 +121,6 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 30. [Job Post](https://www.linkedin.com/jobs/view/sr-data-engineer-at-alexander-technology-group-4446234567)
-> **Company:** Not Found | **Location:** united states | **Salary:** $150,000 - $175,000
+> **Company:** Not Found | **Location:** united states | **Salary:** $145,000 - $165,000
 > **Analyst Reasoning:** Pega keywords found.
 
