@@ -1,60 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-staff-data-engineer-at-zendesk-4460435001",
-        "title": "Senior Staff Data Engineer",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/principal-analytics-engineer-at-harness-4460403286",
-        "title": "Principal Analytics Engineer",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-plaid-4462760959",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-data-engineering-at-plaid-4462763187",
-        "title": "Senior Data Engineer - Data Engineering",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-staff-data-engineer-at-zendesk-4460430015",
-        "title": "Senior Staff Data Engineer",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/manager-ai-and-data-risk-management-at-deloitte-4453397786",
-        "title": "Manager-AI and Data Risk Management",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/manager-ai-and-data-risk-management-at-deloitte-4453609546",
-        "title": "Manager-AI and Data Risk Management",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-atlas-search-4469741898",
-        "title": "Data Engineer",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-sql-etl-developer-hybrid-at-broadridge-4471634058",
-        "title": "Senior SQL / ETL Developer (Hybrid)",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-developer-at-ice-4462715256",
-        "title": "Senior Developer",
-        "date_found": "2026-09-24"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-integration-engineer-at-the-depository-trust-clearing-corporation-dtcc-4470012440",
-        "title": "Data Integration Engineer",
-        "date_found": "2026-09-24"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-hybrid-at-the-hartford-4469784734",
         "title": "Staff Data Engineer - Hybrid",
         "date_found": "2026-09-28"
@@ -433,5 +378,65 @@
         "url": "https://www.linkedin.com/jobs/view/avp-data-warehouse-analyst-lead-finance-at-lpl-financial-4463156219",
         "title": "AVP Data Warehouse Analyst Lead - Finance",
         "date_found": "2026-10-01"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-analytics-performance-insights-at-fidelity-investments-4474552683",
+        "title": "Data Engineer, Analytics & Performance Insights",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-integration-lead-vp-at-mufg-4475018033",
+        "title": "Data Integration Lead, VP",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineering-manager-commercial-us-at-sanofi-4456738970",
+        "title": "Data Engineering Manager, Commercial US",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/database-administration-senior-advisor-hybrid-at-the-cigna-group-4472967334",
+        "title": "Database Administration Senior Advisor- Hybrid",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-integration-lead-vp-at-mufg-4475007516",
+        "title": "Data Integration Lead, VP",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/it-developer-ii-iv-remote-at-the-cincinnati-insurance-companies-4474511555",
+        "title": "IT - Developer II - IV (Remote)",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-staff-data-engineer-remote-eligible-at-capital-one-4474771023",
+        "title": "Sr. Staff Data Engineer (Remote -Eligible)",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-data-analytics-engineer-at-under-armour-4428105623",
+        "title": "Sr. Data Analytics Engineer",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-staff-data-engineer-remote-eligible-at-capital-one-4474768229",
+        "title": "Sr. Staff Data Engineer (Remote -Eligible)",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-cloud-data-architect-at-lseg-4446455001",
+        "title": "Principal - Cloud Data Architect",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4474736096",
+        "title": "Data Engineer",
+        "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-snowflake-solutions-architect-%E2%80%93-pre-sales-services-at-boolean-data-systems-4473158926",
+        "title": "Principal Snowflake Solutions Architect \u2013 Pre-Sales & Services",
+        "date_found": "2026-10-02"
     }
 ]
