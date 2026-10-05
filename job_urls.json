@@ -430,13 +430,23 @@
         "date_found": "2026-10-02"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4474736096",
-        "title": "Data Engineer",
-        "date_found": "2026-10-02"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/principal-snowflake-solutions-architect-%E2%80%93-pre-sales-services-at-boolean-data-systems-4473158926",
         "title": "Principal Snowflake Solutions Architect \u2013 Pre-Sales & Services",
         "date_found": "2026-10-02"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-safelite-4437628186",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-10-05"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/etra-senior-data-analyst-at-fidelity-investments-4447876335",
+        "title": "ETRA Senior Data Analyst",
+        "date_found": "2026-10-05"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-at-zocdoc-4418835226",
+        "title": "Staff Analytics Engineer",
+        "date_found": "2026-10-05"
     }
 ]

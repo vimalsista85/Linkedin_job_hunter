@@ -1,4 +1,4 @@
-# Pega Job Search Results (2026-10-02)
+# Pega Job Search Results (2026-10-05)
 
 **Jobs Meeting Criteria:** 30
 
@@ -80,47 +80,47 @@
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 20. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-corporate-technology-data-engineering-analytics-at-massmutual-4321743214)
+### 20. [Job Post](https://www.linkedin.com/jobs/view/senior-manager-data-analytics-insights-at-fidelity-investments-4435178983)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 21. [Job Post](https://www.linkedin.com/jobs/view/senior-manager-data-analytics-insights-at-fidelity-investments-4435178983)
+### 21. [Job Post](https://www.linkedin.com/jobs/view/enterprise-data-modeler-data-architect-at-steris-4417796066)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 22. [Job Post](https://www.linkedin.com/jobs/view/enterprise-data-modeler-data-architect-at-steris-4417796066)
+### 22. [Job Post](https://www.linkedin.com/jobs/view/senior-manager-data-engineering-at-greenlight-rent-4451461733)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 23. [Job Post](https://www.linkedin.com/jobs/view/senior-manager-data-engineering-at-greenlight-rent-4451461733)
+### 23. [Job Post](https://www.linkedin.com/jobs/view/manager-information-management-reporting-at-aman-at-sea-4435506604)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 24. [Job Post](https://www.linkedin.com/jobs/view/manager-information-management-reporting-at-aman-at-sea-4435506604)
+### 24. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-airwallex-4398894923)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 25. [Job Post](https://www.linkedin.com/jobs/view/senior-data-engineer-at-airwallex-4398894923)
+### 25. [Job Post](https://www.linkedin.com/jobs/view/avp-data-warehouse-lead-at-lpl-financial-4463168024)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 26. [Job Post](https://www.linkedin.com/jobs/view/avp-data-warehouse-lead-at-lpl-financial-4463168024)
+### 26. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-marketing-technology-at-foxit-4427162819)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 27. [Job Post](https://www.linkedin.com/jobs/view/data-engineer-marketing-technology-at-foxit-4427162819)
+### 27. [Job Post](https://www.linkedin.com/jobs/view/big-data-engineer-iii-60641-at-aaa-northeast-4469778954)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 28. [Job Post](https://www.linkedin.com/jobs/view/big-data-engineer-iii-60641-at-aaa-northeast-4469778954)
+### 28. [Job Post](https://www.linkedin.com/jobs/view/avp-data-warehouse-lead-at-lpl-financial-4463156219)
 > **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
-### 29. [Job Post](https://www.linkedin.com/jobs/view/avp-data-warehouse-lead-at-lpl-financial-4463156219)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 30. [Job Post](https://www.linkedin.com/jobs/view/principal-data-business-intelligence-engineer-at-coherent-corp-4413633641)
+### 29. [Job Post](https://www.linkedin.com/jobs/view/principal-data-business-intelligence-engineer-at-coherent-corp-4413633641)
 > **Company:** Not Found | **Location:** united states | **Salary:** $141,563.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 30. [Job Post](https://www.linkedin.com/jobs/view/data-analytics-engineer-snowflake-dbt-1042-controller-s-office-168329-at-city-and-county-of-san-francisco-4472206608)
+> **Company:** Controller's Office | **Location:** united states | **Salary:** $143,572 - $180,596
 > **Analyst Reasoning:** Pega keywords found.
 
