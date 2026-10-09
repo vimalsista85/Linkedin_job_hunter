@@ -1,65 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/vp-lead-analytics-engineer-at-jpmorganchase-4472268277",
-        "title": "VP, Lead Analytics Engineer",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/lead-solutions-architect-data-analytics-engineering-at-under-armour-4445926099",
-        "title": "Lead, Solutions Architect - Data Analytics Engineering",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-snowflake-technical-engineer-avp-at-state-street-4473546980",
-        "title": "Data Analytics - Snowflake Technical Engineer, AVP",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-bayview-asset-management-llc-4468909643",
-        "title": "Database Engineer",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-bayview-asset-management-llc-4468599900",
-        "title": "Database Engineer",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/director-analytics-engineering-at-fidelity-investments-4474364812",
-        "title": "Director, Analytics Engineering",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-enlyte-4472368040",
-        "title": "Database Engineer",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-snowflake-technical-engineer-avp-at-state-street-4473561521",
-        "title": "Data Analytics - Snowflake Technical Engineer, AVP",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-database-developer-c13-at-citi-4472538300",
-        "title": "Senior Database Developer  - C13",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-bamboo-insurance-4472331911",
-        "title": "Senior Analytics Engineer",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineering-technical-leader-cx-ai-at-cisco-4473914090",
-        "title": "Data Engineering Technical Leader - CX AI",
-        "date_found": "2026-10-01"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/avp-data-warehouse-analyst-lead-finance-at-lpl-financial-4463156219",
-        "title": "AVP Data Warehouse Analyst Lead - Finance",
-        "date_found": "2026-10-01"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/data-engineer-analytics-performance-insights-at-fidelity-investments-4474552683",
         "title": "Data Engineer, Analytics & Performance Insights",
         "date_found": "2026-10-02"
@@ -413,5 +353,75 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-%E2%80%93-home-lending-data-delivery-columbus-oh-at-huntington-national-bank-4468280902",
         "title": "Data Engineer Sr \u2013 Home Lending Data Delivery - Columbus, OH",
         "date_found": "2026-10-08"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/snowflake-engineer-python-snowpark-at-nationwide-4463982709",
+        "title": "Snowflake Engineer (Python / Snowpark)",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-snowflake-at-first-citizens-bank-4466648278",
+        "title": "Senior Data Engineer - Snowflake",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-snowflake-at-first-citizens-bank-4466645229",
+        "title": "Senior Data Engineer - Snowflake",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-engine-4477835092",
+        "title": "Data Engineer",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-principal-at-blue-shield-of-california-4444016609",
+        "title": "Data Engineer, Principal",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-pacific-life-4477485789",
+        "title": "Analytics Engineer",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-engineer-iii-at-deloitte-4477637705",
+        "title": "Data Engineer - Data Engineer III",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-lead-architect-institutional-division-at-pacific-life-4459884038",
+        "title": "Data Lead Architect- Institutional Division",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-cloud-data-and-ai-engineer-at-the-hartford-4475246258",
+        "title": "Sr Cloud Data and AI Engineer",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-engineer-iii-at-deloitte-4477639529",
+        "title": "Data Engineer - Data Engineer III",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-cloud-data-and-ai-engineer-at-the-hartford-4475248152",
+        "title": "Sr Cloud Data and AI Engineer",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-snowflake-data-engineer-full-time-13%2B-years-exp-required-at-tuppl-4476822100",
+        "title": "Senior Snowflake Data Engineer | Full Time | 13+ years exp required",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-data-modeler-at-fidelity-investments-4476349622",
+        "title": "Principal Data Modeler",
+        "date_found": "2026-10-09"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-dailypay-4467552428",
+        "title": "Data Engineer II",
+        "date_found": "2026-10-09"
     }
 ]
