@@ -1,20 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-safelite-4437628186",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-10-05"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/etra-senior-data-analyst-at-fidelity-investments-4447876335",
-        "title": "ETRA Senior Data Analyst",
-        "date_found": "2026-10-05"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-at-zocdoc-4418835226",
-        "title": "Staff Analytics Engineer",
-        "date_found": "2026-10-05"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/data-engineering-and-development-vp-at-state-street-4470630868",
         "title": "Data Engineering and Development VP",
         "date_found": "2026-10-06"
@@ -345,11 +330,6 @@
         "date_found": "2026-10-09"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-snowflake-data-engineer-full-time-13%2B-years-exp-required-at-tuppl-4476822100",
-        "title": "Senior Snowflake Data Engineer | Full Time | 13+ years exp required",
-        "date_found": "2026-10-09"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/principal-data-modeler-at-fidelity-investments-4476349622",
         "title": "Principal Data Modeler",
         "date_found": "2026-10-09"
@@ -400,11 +380,6 @@
         "date_found": "2026-10-12"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/data-lead-architect-institutional-division-at-pacific-life-4477848681",
-        "title": "Data Lead Architect- Institutional Division",
-        "date_found": "2026-10-12"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/data-warehouse-specialist-at-tata-consultancy-services-4468017698",
         "title": "Data Warehouse Specialist",
         "date_found": "2026-10-12"
@@ -448,5 +423,30 @@
         "url": "https://www.linkedin.com/jobs/view/consumer-community-banking-data-architect-senior-associate-at-jpmorganchase-4478011876",
         "title": "Consumer & Community Banking - Data Architect Senior Associate",
         "date_found": "2026-10-12"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-ii-data-analytics-solutions-at-mutual-of-omaha-4476459658",
+        "title": "Data Engineer I/II - Data Analytics & Solutions",
+        "date_found": "2026-10-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-pacific-life-4479049120",
+        "title": "Analytics Engineer",
+        "date_found": "2026-10-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-lead-architect-institutional-division-at-pacific-life-4479049119",
+        "title": "Data Lead Architect- Institutional Division",
+        "date_found": "2026-10-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-snowflake-technical-engineer-avp-at-state-street-4473546980",
+        "title": "Data Analytics - Snowflake Technical Engineer, AVP",
+        "date_found": "2026-10-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineering-consultant-at-country-financial%C2%AE-4476476461",
+        "title": "Data Engineering Consultant",
+        "date_found": "2026-10-13"
     }
 ]
