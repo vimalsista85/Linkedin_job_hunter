@@ -1,30 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-ii-data-analytics-solutions-at-mutual-of-omaha-4476459658",
-        "title": "Data Engineer I/II - Data Analytics & Solutions",
-        "date_found": "2026-10-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-pacific-life-4479049120",
-        "title": "Analytics Engineer",
-        "date_found": "2026-10-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-lead-architect-institutional-division-at-pacific-life-4479049119",
-        "title": "Data Lead Architect- Institutional Division",
-        "date_found": "2026-10-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-snowflake-technical-engineer-avp-at-state-street-4473546980",
-        "title": "Data Analytics - Snowflake Technical Engineer, AVP",
-        "date_found": "2026-10-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineering-consultant-at-country-financial%C2%AE-4476476461",
-        "title": "Data Engineering Consultant",
-        "date_found": "2026-10-13"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/manager-data-engineering-analytics-at-sailpoint-4479082987",
         "title": "Manager, Data Engineering & Analytics",
         "date_found": "2026-10-14"
@@ -315,11 +290,6 @@
         "date_found": "2026-10-19"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-tableau-snowflake-developer-at-e-solutions-4481219555",
-        "title": "Senior Tableau & Snowflake Developer",
-        "date_found": "2026-10-19"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/principal-data-engineer-at-zoominfo-4480563639",
         "title": "Principal Data Engineer",
         "date_found": "2026-10-19"
@@ -448,5 +418,35 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-elara-caring-4478692930",
         "title": "Data Engineer",
         "date_found": "2026-10-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-blue-cross-of-idaho-4365420331",
+        "title": "Principal Data Architect",
+        "date_found": "2026-10-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tastytrade-4481750926",
+        "title": "Data Engineer",
+        "date_found": "2026-10-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-staff-data-engineer-bi-%E2%80%93-ceg-team-at-agoda-4480764512",
+        "title": "Senior / Staff Data Engineer (BI) \u2013 CEG Team",
+        "date_found": "2026-10-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-coalition-inc-4473533594",
+        "title": "Staff Data Engineer",
+        "date_found": "2026-10-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-staff-data-engineer-bi-%E2%80%93-ceg-team-at-agoda-4480758412",
+        "title": "Senior / Staff Data Engineer (BI) \u2013 CEG Team",
+        "date_found": "2026-10-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-pekin-insurance-4480724743",
+        "title": "Data Engineer I",
+        "date_found": "2026-10-21"
     }
 ]
