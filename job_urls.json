@@ -1,80 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-greenlight-rent-4471514947",
-        "title": "Data Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-snowflake-at-schoolsfirst-federal-credit-union-4481286061",
-        "title": "Lead Data Engineer - Snowflake",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-otter-ai-4454346492",
-        "title": "Data Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/quant-analytics-senior-associate-digital-analytics-at-jpmorganchase-4473058849",
-        "title": "Quant Analytics Senior Associate - Digital Analytics",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-5-at-capital-one-4473256765",
-        "title": "Data Engineer 5",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-dowc-4481598473",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-lead-engineer-at-citi-4480476974",
-        "title": "Data Analytics Lead Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-at-calfus-inc-4480415820",
-        "title": "Lead Data Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-eccalon-llc-4478479523",
-        "title": "Database Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/ads-data-solutions-architect-vice-president-at-state-street-4479052797",
-        "title": "ADS Data Solutions Architect - Vice President",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-trucordia-4481708034",
-        "title": "Data Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-cloud-data-platform-at-charles-schwab-4466990048",
-        "title": "Senior Data Engineer - Cloud Data Platform",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/avp-data-engineer-at-vantage-risk-companies-4478907165",
-        "title": "AVP, Data Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-cloud-data-platform-at-charles-schwab-4466968983",
-        "title": "Senior Data Engineer - Cloud Data Platform",
-        "date_found": "2026-10-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-elara-caring-4478692930",
-        "title": "Data Engineer",
-        "date_found": "2026-10-20"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-blue-cross-of-idaho-4365420331",
         "title": "Principal Data Architect",
         "date_found": "2026-10-21"
@@ -430,11 +355,6 @@
         "date_found": "2026-10-27"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-risk-at-cash-app-4473178340",
-        "title": "Senior Data Engineer, Risk",
-        "date_found": "2026-10-27"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/technical-product-owner-data-and-payment-technology-at-princess-cruises-4455778512",
         "title": "Technical Product Owner, Data and Payment Technology",
         "date_found": "2026-10-27"
@@ -445,8 +365,68 @@
         "date_found": "2026-10-27"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-risk-at-cash-app-4473185136",
-        "title": "Senior Data Engineer, Risk",
-        "date_found": "2026-10-27"
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-sofi-4484494626",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-snowflake-mysql-python-at-fidelity-investments-4484490287",
+        "title": "Senior Data Engineer (Snowflake, MySQL, Python)",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-oneamerica-financial-4484700106",
+        "title": "Data Engineer",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-data-platform-remote-raleigh-nc-dallas-tx-phoenix-az-at-first-citizens-bank-4476543260",
+        "title": "Senior Data Engineer - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ)",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/vice-president-data-management-engineer-at-bny-4459089561",
+        "title": "Vice President, Data Management Engineer",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-remote-nc-az-fl-tx-at-first-citizens-bank-4476534709",
+        "title": "Lead Data Engineer - Remote (NC, AZ, FL, TX)",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-advisor-snowflake-devolpement-at-orgill-4458793268",
+        "title": "Sr Advisor Snowflake Devolpement",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-it-database-administrator-senior-snowflake-dba-at-florida-blue-4482866335",
+        "title": "Senior IT Database Administrator (Senior Snowflake DBA)",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-data-engineering-at-ally-4474999609",
+        "title": "Principal - Data Engineering",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-greatamerica-4482240820",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-greatamerica-4482244701",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-atlas-search-4482518456",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/snowflake-finance-data-ai-architect-manager-at-deloitte-4467964099",
+        "title": "Snowflake Finance Data & AI Architect Manager",
+        "date_found": "2026-10-28"
     }
 ]
