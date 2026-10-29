@@ -1,25 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-blue-cross-of-idaho-4365420331",
-        "title": "Principal Data Architect",
-        "date_found": "2026-10-21"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tastytrade-4481750926",
-        "title": "Data Engineer",
-        "date_found": "2026-10-21"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-coalition-inc-4473533594",
-        "title": "Staff Data Engineer",
-        "date_found": "2026-10-21"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-pekin-insurance-4480724743",
-        "title": "Data Engineer I",
-        "date_found": "2026-10-21"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-engine-4482465766",
         "title": "Data Engineer",
         "date_found": "2026-10-22"
@@ -428,5 +408,45 @@
         "url": "https://www.linkedin.com/jobs/view/snowflake-finance-data-ai-architect-manager-at-deloitte-4467964099",
         "title": "Snowflake Finance Data & AI Architect Manager",
         "date_found": "2026-10-28"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/capital-one-shopping-tech-data-engineer-5-remote-eligible-at-capital-one-4477176978",
+        "title": "Capital One Shopping Tech, Data Engineer 5 (Remote- Eligible)",
+        "date_found": "2026-10-29"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-manager-advanced-data-analytics-and-insights-at-fidelity-investments-4484733709",
+        "title": "Senior Manager, Advanced Data Analytics and Insights",
+        "date_found": "2026-10-29"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-%E2%80%93-home-lending-data-delivery-columbus-oh-at-huntington-national-bank-4468280902",
+        "title": "Data Engineer Sr \u2013 Home Lending Data Delivery - Columbus, OH",
+        "date_found": "2026-10-29"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-deloitte-4484920177",
+        "title": "Data Engineer",
+        "date_found": "2026-10-29"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-deloitte-4484915434",
+        "title": "Data Engineer",
+        "date_found": "2026-10-29"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/it-lead-data-analyst-at-continental-finance-company-4484152061",
+        "title": "IT Lead Data Analyst",
+        "date_found": "2026-10-29"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-unitedhealthcare-4484936748",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-10-29"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-snowflake-at-sammons-financial-group-companies-4474547193",
+        "title": "Sr. Data Engineer (Snowflake)",
+        "date_found": "2026-10-29"
     }
 ]
