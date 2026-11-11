@@ -1,75 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-remote-at-carefirst-bluecross-blueshield-4487040126",
-        "title": "Senior Data Engineer (Remote)",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/capital-one-shopping-tech-data-engineer-5-remote-eligible-at-capital-one-4486893640",
-        "title": "Capital One Shopping Tech, Data Engineer 5 (Remote- Eligible)",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-lead-architect-institutional-division-at-pacific-life-4479049119",
-        "title": "Data Lead Architect- Institutional Division",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-unum-4487014011",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-tm-floyd-company-tmf-4486072185",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-lead-architect-institutional-division-at-pacific-life-4479033575",
-        "title": "Data Lead Architect- Institutional Division",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-analytics-architect-at-post-holdings-4372643480",
-        "title": "Sr Analytics Architect",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-apexon-4486096267",
-        "title": "Data Engineer",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-janus-henderson-investors-4466636250",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-nicklaus-children-s-health-system-4468006882",
-        "title": "Data Engineer II",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-kastle-systems-4486017762",
-        "title": "Senior Data Engineer",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/lead-data-engineering-architect-%E2%80%93-insurance-at-dxc-technology-4441709079",
-        "title": "Lead Data Engineering Architect \u2013 Insurance",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-iii-at-seminole-hard-rock-support-services-4460354808",
-        "title": "Data Engineer III",
-        "date_found": "2026-11-03"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-architecture-engineering-manager-financial-services-consulting-at-ey-4482552832",
-        "title": "Data Architecture & Engineering - Manager - Financial Services - Consulting",
-        "date_found": "2026-11-03"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/data-warehouse-developer-senior-or-lead-at-progressive-insurance-4487524160",
         "title": "Data Warehouse Developer Senior or Lead",
         "date_found": "2026-11-04"
@@ -192,11 +122,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/senior-developer-at-ice-4462715256",
         "title": "Senior Developer",
-        "date_found": "2026-11-05"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-atlas-search-4482518456",
-        "title": "Senior Data Engineer",
         "date_found": "2026-11-05"
     },
     {
@@ -443,5 +368,80 @@
         "url": "https://www.linkedin.com/jobs/view/sr-engineer-data-prsnliztn-at-tractor-supply-company-4488006923",
         "title": "Sr Engineer, Data Prsnliztn",
         "date_found": "2026-11-10"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-firstpro-us-4489001544",
+        "title": "Data Engineer",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-blue-cross-of-idaho-4365420331",
+        "title": "Principal Data Architect",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tastytrade-4481750926",
+        "title": "Data Engineer",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-geico-4488619690",
+        "title": "Principal Data Architect",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-at-zocdoc-4489013964",
+        "title": "Staff Analytics Engineer",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-snowflake-dbt-at-kapitus-4488464346",
+        "title": "Data Engineer - Snowflake & DBT",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/snowflake-developer-at-dexian-4488224943",
+        "title": "Snowflake Developer",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-5-at-capital-one-4473580577",
+        "title": "Data Engineer 5",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/enterprise-data-architect-at-gainsco-4481781416",
+        "title": "Enterprise Data Architect",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/principal-data-engineering-at-ally-4474999609",
+        "title": "Principal - Data Engineering",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-legalzoom-4464668420",
+        "title": "Staff Data Engineer",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-5-at-capital-one-4473265386",
+        "title": "Data Engineer 5",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-trucordia-4481708034",
+        "title": "Data Engineer",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-sql-etl-developer-hybrid-at-broadridge-4489983655",
+        "title": "Senior SQL / ETL Developer (Hybrid)",
+        "date_found": "2026-11-11"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-people-analytics-at-sofi-4489661008",
+        "title": "Senior Data Engineer- People Analytics",
+        "date_found": "2026-11-11"
     }
 ]
