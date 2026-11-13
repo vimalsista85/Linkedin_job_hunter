@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-architect-data-analytics-coe-at-unfcu-4487760876",
-        "title": "Senior Architect - Data & Analytics COE",
-        "date_found": "2026-11-05"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-lead-sw-full-stack-eng-at-northern-trust-4477023491",
-        "title": "Sr Lead, SW Full Stack Eng",
-        "date_found": "2026-11-05"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-onsite-at-eccalon-llc-4486799603",
-        "title": "Database Engineer - onsite",
-        "date_found": "2026-11-05"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-sunnyvale-at-walmart-global-tech-4485554772",
-        "title": "Senior, Data Engineer | Sunnyvale",
-        "date_found": "2026-11-05"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-ehealth-inc-4469485406",
-        "title": "Sr. Data Engineer",
-        "date_found": "2026-11-05"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-developer-at-ice-4462715256",
-        "title": "Senior Developer",
-        "date_found": "2026-11-05"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-snowflake-dbt-aws-at-travelers-4452342521",
         "title": "Data Engineer II - Snowflake, dbt, AWS",
         "date_found": "2026-11-06"
@@ -423,5 +393,60 @@
         "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-pacific-life-4489961699",
         "title": "Senior Data Engineer",
         "date_found": "2026-11-12"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-sofi-4483152470",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-sofi-4483161278",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-platform-architect-at-aptiv-4482840914",
+        "title": "Data Platform Architect",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/director-data-architecture-%E2%80%93-data-migration-at-fidelity-investments-4490512757",
+        "title": "Director, Data Architecture \u2013 Data Migration",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/director-data-architecture-%E2%80%93-reporting-analytics-at-fidelity-investments-4490521241",
+        "title": "Director, Data Architecture \u2013 Reporting & Analytics",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-4-at-capital-one-4489526780",
+        "title": "Data Engineer 4",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/sr-staff-data-engineer-remote-eligible-at-capital-one-4474771023",
+        "title": "Sr. Staff Data Engineer (Remote -Eligible)",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-manager-data-engineering-at-ninjaholdings-4488947411",
+        "title": "Senior Manager, Data Engineering",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-iii-%E2%80%93-data-operations-infrastructure-at-icw-group-4482757390",
+        "title": "Data Engineer III \u2013 Data Operations & Infrastructure",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-chg-healthcare-4490537409",
+        "title": "Staff Data Engineer",
+        "date_found": "2026-11-13"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-chg-healthcare-4490530767",
+        "title": "Senior Data Engineer",
+        "date_found": "2026-11-13"
     }
 ]
